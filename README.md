@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Github Users API Parsing
+## Github Users-API Parsing
 This flutter challenge includes parsing the "Github Users API" and Dark and light Mode UI implementation.
 
 A few resources to get you started if this is your first Flutter project:
